@@ -1,5 +1,15 @@
-# TurtleBot2.5 ROS 2 Challenge
+<div align="center">
 
+# TurtleBot2.5 Robotics Challenge Framework
+
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![日本語](https://img.shields.io/badge/言語-日本語-red)](README_JP.md)
+
+Framework for the TurtleBot2.5 ROS 2 autonomous robotics challenge.
+
+</div>
+
+---
 This repository contains the software for the **TurtleBot2.5 Challenge**, a robotics activity where teams program a TurtleBot2 equipped with a Crane+ robotic arm to autonomously complete a sequence of tasks.
 
 The project is designed for beginners learning ROS 2 while introducing concepts such as autonomous navigation, robot manipulation, and modular software design.
