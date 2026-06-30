@@ -22,7 +22,7 @@ class BaseController:
 
         self.cmd_pub = node.create_publisher(
             Twist,
-            "/cmd_vel",
+            "/commands/velocity",
             10
         )
 
